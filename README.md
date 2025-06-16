@@ -7,7 +7,7 @@
 
 ``` git clone "https://github.com/Durga-Vijaya-Ramaraju/SE_HW1_Fermat_near_misses.git" ```
 
-**Step3**: After cloning this repository to your local machine  , please open the folder you clone and run the .exe file, this file will execute the code.
+**Step3**: After cloning this repository to your local machine  , please open the folder you clone and run the .exe file, this file will execute the code. Also you need to ensure to enter n value between 3 and 11 and K value greater than 10.
 
 **Step4**: To exit from this code execution type "exit" in any prompt or press ctrl+c to exit.
 
