@@ -5,7 +5,7 @@
 
 **Step2**: To run this code you need to clone this repository by using the below command 
 
-``` git clone "" ```
+``` git clone "https://github.com/Durga-Vijaya-Ramaraju/SE_HW1_Fermat_near_misses.git" ```
 
 **Step3**: After cloning this repository to your local machine  , please open the folder you clone and run the .exe file, this file will execute the code.
 
