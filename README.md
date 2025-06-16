@@ -9,7 +9,7 @@
 
 **Step3**: After cloning this repository to your local machine  , please open the folder you clone and run the .exe file, this file will execute the code.
 
-**Step4**: To exit from this code execution type "exit" in any prompt.
+**Step4**: To exit from this code execution type "exit" in any prompt or press ctrl+c to exit.
 
 **Step5**: if you encounter any problems in executing the file , then use terminal to run the command manually by using the below command.
 
